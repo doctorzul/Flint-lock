@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iSi",
+        "ICI",
+        "iIi"
+    ],
+    "key": {
+        "i": "minecraft:iron_ingot",
+        "S": "minecraft:smooth_stone",
+        "I": "minecraft:iron_nugget",
+        "C": "minecraft:crafting_table"
+    },
+    "result": {
+        "id": "minecraft:smithing_table",
+        "count": 1
+    }
+}

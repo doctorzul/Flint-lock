@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#S#",
+        "#D#",
+        "###"
+    ],
+    "key": {
+        "#": "minecraft:cobbled_deepslate",
+        "S": "minecraft:silence_armor_trim_smithing_template",
+        "D": "minecraft:diamond_block"
+    },
+    "result": {
+        "id": "minecraft:silence_armor_trim_smithing_template",
+        "count": 2
+    }
+}

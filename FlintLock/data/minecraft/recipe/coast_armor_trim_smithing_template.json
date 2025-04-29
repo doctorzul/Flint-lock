@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#C#",
+        "#D#",
+        "###"
+    ],
+    "key": {
+        "#": "minecraft:cobblestone",
+        "C": "minecraft:coast_armor_trim_smithing_template",
+        "D": "minecraft:diamond_block"
+    },
+    "result": {
+        "id": "minecraft:coast_armor_trim_smithing_template",
+        "count": 2
+    }
+}

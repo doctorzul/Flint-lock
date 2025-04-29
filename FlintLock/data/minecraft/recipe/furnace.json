@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#C#",
+        "###"
+    ],
+    "key": {
+        "#": [
+            "minecraft:cobblestone",
+            "minecraft:cobbled_deepslate",
+            "minecraft:blackstone"
+        ],
+        "C": [
+            "minecraft:coal",
+            "minecraft:charcoal"
+        ]
+    },
+    "result": {
+        "id": "minecraft:furnace",
+        "count": 1
+    }
+}

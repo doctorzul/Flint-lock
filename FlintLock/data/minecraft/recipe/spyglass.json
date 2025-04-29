@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#G#",
+        " g ",
+        " c "
+    ],
+    "key": {
+        "#": "minecraft:iron_nugget",
+        "G": "minecraft:glass",
+        "g": "minecraft:gold_ingot",
+        "c": "minecraft:copper_ingot"
+    },
+    "result": {
+        "id": "minecraft:spyglass",
+        "count": 1
+    }
+}

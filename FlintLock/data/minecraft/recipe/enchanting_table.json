@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "DCD",
+        "CCC"
+    ],
+    "key": {
+        "#": "minecraft:writable_book",
+        "D": "minecraft:diamond",
+        "C": "minecraft:crying_obsidian"
+    },
+    "result": {
+        "id": "minecraft:enchanting_table",
+        "count": 1
+    }
+}

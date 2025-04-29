@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#C#",
+        "IPI",
+        "#I#"
+    ],
+    "key": {
+        "#": "minecraft:paper",
+        "C": "minecraft:compass",
+        "I": "minecraft:ink_sac",
+        "P": "minecraft:crafting_table"
+    },
+    "result": {
+        "id": "minecraft:cartography_table",
+        "count": 1
+    }
+}

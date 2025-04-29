@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#B#",
+        "FCF",
+        "#F#"
+    ],
+    "key": {
+        "#": "minecraft:flint",
+        "B": "minecraft:bow",
+        "F": "minecraft:feather",
+        "C": "minecraft:crafting_table"
+    },
+    "result": {
+        "id": "minecraft:fletching_table",
+        "count": 1
+    }
+}

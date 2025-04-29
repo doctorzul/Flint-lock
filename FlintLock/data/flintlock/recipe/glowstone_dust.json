@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:glow_ink_sac",
+            "minecraft:glow_berries",
+            "minecraft:prismarine_crystals"
+        ]
+    ],
+    "result": {
+        "id": "minecraft:glowstone_dust",
+        "count": 2
+    }
+}

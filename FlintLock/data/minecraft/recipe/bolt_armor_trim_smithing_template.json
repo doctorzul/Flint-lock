@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "cBc",
+        "cDc",
+        "ccc"
+    ],
+    "key": {
+        "c": "minecraft:copper_ingot",
+        "B": "minecraft:bolt_armor_trim_smithing_template",
+        "D": "minecraft:diamond_block"
+    },
+    "result": {
+        "id": "minecraft:bolt_armor_trim_smithing_template",
+        "count": 2
+    }
+}
