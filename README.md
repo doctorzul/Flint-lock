@@ -7,7 +7,7 @@ FlintLock is a lightweight Minecraft datapack designed to make early-game surviv
 - Harder Enchanting Table: Requires Crying Obsidian instead of regular obsidian. Magic comes at a price.
 - Costlier Smithing Template Cloning: No more cheap trims! You’ll need a full Block of Diamond to copy one.
 
-Other recipe tweaks aimed at encouraging exploration and smarter resource usage.
+Some other recipe tweaks aimed at encouraging exploration and smarter resource usage.
 
 ## Installation 📦
 1. Drop the FlintLock folder into your world’s datapacks directory.
@@ -21,3 +21,4 @@ Does not require any mods or external tools
 ## Behind The Scenes 🧠
 A fun project, which I'm also using to get more used to doing stuff on GitHub.
 Wiki tbd!
+Ideally, this datapack will be updated to allow for all game items to be craftable and obtainable in Peaceful Mode!
