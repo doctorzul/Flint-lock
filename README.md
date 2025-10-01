@@ -3,10 +3,11 @@ A minimalist Minecraft datapack that rebalances survival with harder crafting re
 FlintLock is a lightweight Minecraft datapack designed to make early-game survival more challenging and progression more meaningful. It replaces and adjusts several vanilla recipes to better reward exploration and resource management.
 
 ## Key Features 💡
-Flint Tools: Stone Tools are out — now you’ll need Flint to craft your second set of tools.
-Harder Enchanting Table: Requires Crying Obsidian instead of regular obsidian. Magic comes at a price.
-Costlier Smithing Template Cloning: No more cheap trims — you’ll need a full Block of Diamond to copy one.
-Other recipe tweaks aimed at encouraging exploration and smarter resource usage,
+- Flint Tools: Stone Tools are out. Now you’ll need Flint to craft your second set of tools.
+- Harder Enchanting Table: Requires Crying Obsidian instead of regular obsidian. Magic comes at a price.
+- Costlier Smithing Template Cloning: No more cheap trims! You’ll need a full Block of Diamond to copy one.
+
+Other recipe tweaks aimed at encouraging exploration and smarter resource usage.
 
 ## Installation 📦
 1. Drop the FlintLock folder into your world’s datapacks directory.
